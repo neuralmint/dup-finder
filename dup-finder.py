@@ -38,6 +38,3 @@ def main():
     else:
         print("No duplicate files found")
 
-if __name__ == "__main__":
-    main()
-
