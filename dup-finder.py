@@ -41,6 +41,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Donations:
-#   BTC: bc1q6ud0w3036ye2vfzkftwywarqswqu3jehs4nqe7
-#   ETH: 0x643E158D7615d19F1f0105B0cc5a1D976B456e4A
